@@ -1,0 +1,28 @@
+body {
+  background-color: #d6c198;
+  }
+
+h1 {
+  font-size: 64px;
+  color: #873f00;
+  text-decoration: underline;
+  text-transform: uppercase;
+}
+
+a:hover{
+  color:orange;
+}
+
+#bearded{
+   max-width: 600px;
+   height: auto;
+}
+
+.lizard{
+  max-width:200px;
+  height: auto;
+}
+
+td, th {
+  border: 1px solid black;
+}
